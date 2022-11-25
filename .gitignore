@@ -34,3 +34,11 @@
 
 # Build directory
 build/
+cmake-build-debug/
+
+# Junk directory
+junk/
+
+# ide
+.idea/
+.vscode/
